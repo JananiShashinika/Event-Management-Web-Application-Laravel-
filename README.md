@@ -11,7 +11,6 @@ This is a web-based event management system built using Laravel and Vue.js. It h
 
 ## *Technologies Used*
 - **Laravel** (PHP framework)
-- **Vue.js** (Frontend)
 - **MySQL** (Database)
 - **Bootstrap** (Styling)
 - **Vite** (Build tool)
